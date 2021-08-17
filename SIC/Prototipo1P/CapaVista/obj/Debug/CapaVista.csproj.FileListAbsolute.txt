@@ -14,3 +14,17 @@ C:\Users\HP\Desktop\PRIMER PARCIAL-AS2-MELISSA ALDANA\SIC\Prototipo1P\CapaVista\
 C:\Users\HP\Desktop\PRIMER PARCIAL-AS2-MELISSA ALDANA\SIC\Prototipo1P\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
 C:\Users\HP\Desktop\PRIMER PARCIAL-AS2-MELISSA ALDANA\SIC\Prototipo1P\CapaVista\obj\Debug\CapaVista.dll
 C:\Users\HP\Desktop\PRIMER PARCIAL-AS2-MELISSA ALDANA\SIC\Prototipo1P\CapaVista\obj\Debug\CapaVista.pdb
+C:\Users\HP\Desktop\PRIMER PARCIAL-AS2-MELISSA ALDANA\Prototipo 1P\SIC\Prototipo1P\CapaVista\bin\Debug\CapaVista.dll
+C:\Users\HP\Desktop\PRIMER PARCIAL-AS2-MELISSA ALDANA\Prototipo 1P\SIC\Prototipo1P\CapaVista\bin\Debug\CapaVista.pdb
+C:\Users\HP\Desktop\PRIMER PARCIAL-AS2-MELISSA ALDANA\Prototipo 1P\SIC\Prototipo1P\CapaVista\obj\Debug\CapaVista.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\PRIMER PARCIAL-AS2-MELISSA ALDANA\Prototipo 1P\SIC\Prototipo1P\CapaVista\obj\Debug\CapaVista.frmMDI.resources
+C:\Users\HP\Desktop\PRIMER PARCIAL-AS2-MELISSA ALDANA\Prototipo 1P\SIC\Prototipo1P\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\PRIMER PARCIAL-AS2-MELISSA ALDANA\Prototipo 1P\SIC\Prototipo1P\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\PRIMER PARCIAL-AS2-MELISSA ALDANA\Prototipo 1P\SIC\Prototipo1P\CapaVista\obj\Debug\CapaVista.dll
+C:\Users\HP\Desktop\PRIMER PARCIAL-AS2-MELISSA ALDANA\Prototipo 1P\SIC\Prototipo1P\CapaVista\obj\Debug\CapaVista.pdb
+C:\Users\HP\Desktop\PRIMER PARCIAL-AS2-MELISSA ALDANA\Prototipo 1P\SIC\Prototipo1P\CapaVista\obj\Debug\CapaVista.frmConsultaClientes.resources
+C:\Users\HP\Desktop\PRIMER PARCIAL-AS2-MELISSA ALDANA\Prototipo 1P\SIC\Prototipo1P\CapaVista\obj\Debug\CapaVista.frmConsultaCuentaCorriente.resources
+C:\Users\HP\Desktop\PRIMER PARCIAL-AS2-MELISSA ALDANA\Prototipo 1P\SIC\Prototipo1P\CapaVista\obj\Debug\CapaVista.frmConsultaProveedores.resources
+C:\Users\HP\Desktop\PRIMER PARCIAL-AS2-MELISSA ALDANA\Prototipo 1P\SIC\Prototipo1P\CapaVista\bin\Debug\CapaControlador.dll
+C:\Users\HP\Desktop\PRIMER PARCIAL-AS2-MELISSA ALDANA\Prototipo 1P\SIC\Prototipo1P\CapaVista\bin\Debug\CapaControlador.pdb
+C:\Users\HP\Desktop\PRIMER PARCIAL-AS2-MELISSA ALDANA\Prototipo 1P\SIC\Prototipo1P\CapaVista\obj\Debug\CapaVista.csproj.CopyComplete

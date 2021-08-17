@@ -34,9 +34,12 @@ namespace CapaVista
             this.catálogosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.procesosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.informesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.cuentasCorrientesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.herramientasToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.ayudaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.cuentasCorrientesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.consultaClientesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.consultaProveedoresToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.consultaCuentaCorrienteToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -81,6 +84,16 @@ namespace CapaVista
             this.informesToolStripMenuItem.Size = new System.Drawing.Size(66, 20);
             this.informesToolStripMenuItem.Text = "Informes";
             // 
+            // cuentasCorrientesToolStripMenuItem
+            // 
+            this.cuentasCorrientesToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.consultaClientesToolStripMenuItem,
+            this.consultaProveedoresToolStripMenuItem,
+            this.consultaCuentaCorrienteToolStripMenuItem});
+            this.cuentasCorrientesToolStripMenuItem.Name = "cuentasCorrientesToolStripMenuItem";
+            this.cuentasCorrientesToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.cuentasCorrientesToolStripMenuItem.Text = "Cuentas Corrientes";
+            // 
             // herramientasToolStripMenuItem
             // 
             this.herramientasToolStripMenuItem.Name = "herramientasToolStripMenuItem";
@@ -93,11 +106,26 @@ namespace CapaVista
             this.ayudaToolStripMenuItem.Size = new System.Drawing.Size(53, 20);
             this.ayudaToolStripMenuItem.Text = "Ayuda";
             // 
-            // cuentasCorrientesToolStripMenuItem
+            // consultaClientesToolStripMenuItem
             // 
-            this.cuentasCorrientesToolStripMenuItem.Name = "cuentasCorrientesToolStripMenuItem";
-            this.cuentasCorrientesToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.cuentasCorrientesToolStripMenuItem.Text = "Cuentas Corrientes";
+            this.consultaClientesToolStripMenuItem.Name = "consultaClientesToolStripMenuItem";
+            this.consultaClientesToolStripMenuItem.Size = new System.Drawing.Size(214, 22);
+            this.consultaClientesToolStripMenuItem.Text = "Consulta Clientes";
+            this.consultaClientesToolStripMenuItem.Click += new System.EventHandler(this.consultaClientesToolStripMenuItem_Click);
+            // 
+            // consultaProveedoresToolStripMenuItem
+            // 
+            this.consultaProveedoresToolStripMenuItem.Name = "consultaProveedoresToolStripMenuItem";
+            this.consultaProveedoresToolStripMenuItem.Size = new System.Drawing.Size(214, 22);
+            this.consultaProveedoresToolStripMenuItem.Text = "Consulta Proveedores";
+            this.consultaProveedoresToolStripMenuItem.Click += new System.EventHandler(this.consultaProveedoresToolStripMenuItem_Click);
+            // 
+            // consultaCuentaCorrienteToolStripMenuItem
+            // 
+            this.consultaCuentaCorrienteToolStripMenuItem.Name = "consultaCuentaCorrienteToolStripMenuItem";
+            this.consultaCuentaCorrienteToolStripMenuItem.Size = new System.Drawing.Size(214, 22);
+            this.consultaCuentaCorrienteToolStripMenuItem.Text = "Consulta Cuenta Corriente";
+            this.consultaCuentaCorrienteToolStripMenuItem.Click += new System.EventHandler(this.consultaCuentaCorrienteToolStripMenuItem_Click);
             // 
             // frmMDI
             // 
@@ -126,5 +154,8 @@ namespace CapaVista
         private System.Windows.Forms.ToolStripMenuItem herramientasToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem ayudaToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem cuentasCorrientesToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem consultaClientesToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem consultaProveedoresToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem consultaCuentaCorrienteToolStripMenuItem;
     }
 }

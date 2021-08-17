@@ -3,3 +3,12 @@ C:\Users\HP\source\repos\Prototipo1P\CapaControlador\bin\Debug\CapaControlador.p
 C:\Users\HP\source\repos\Prototipo1P\CapaControlador\obj\Debug\CapaControlador.csproj.CoreCompileInputs.cache
 C:\Users\HP\source\repos\Prototipo1P\CapaControlador\obj\Debug\CapaControlador.dll
 C:\Users\HP\source\repos\Prototipo1P\CapaControlador\obj\Debug\CapaControlador.pdb
+C:\Users\HP\Desktop\PRIMER PARCIAL-AS2-MELISSA ALDANA\Prototipo 1P\SIC\Prototipo1P\CapaControlador\obj\Debug\CapaControlador.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\PRIMER PARCIAL-AS2-MELISSA ALDANA\Prototipo 1P\SIC\Prototipo1P\CapaControlador\obj\Debug\CapaControlador.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\PRIMER PARCIAL-AS2-MELISSA ALDANA\Prototipo 1P\SIC\Prototipo1P\CapaControlador\obj\Debug\CapaControlador.dll
+C:\Users\HP\Desktop\PRIMER PARCIAL-AS2-MELISSA ALDANA\Prototipo 1P\SIC\Prototipo1P\CapaControlador\obj\Debug\CapaControlador.pdb
+C:\Users\HP\Desktop\PRIMER PARCIAL-AS2-MELISSA ALDANA\Prototipo 1P\SIC\Prototipo1P\CapaControlador\bin\Debug\CapaControlador.dll
+C:\Users\HP\Desktop\PRIMER PARCIAL-AS2-MELISSA ALDANA\Prototipo 1P\SIC\Prototipo1P\CapaControlador\bin\Debug\CapaControlador.pdb
+C:\Users\HP\Desktop\PRIMER PARCIAL-AS2-MELISSA ALDANA\Prototipo 1P\SIC\Prototipo1P\CapaControlador\bin\Debug\CapaModelo.dll
+C:\Users\HP\Desktop\PRIMER PARCIAL-AS2-MELISSA ALDANA\Prototipo 1P\SIC\Prototipo1P\CapaControlador\bin\Debug\CapaModelo.pdb
+C:\Users\HP\Desktop\PRIMER PARCIAL-AS2-MELISSA ALDANA\Prototipo 1P\SIC\Prototipo1P\CapaControlador\obj\Debug\CapaControlador.csproj.CopyComplete

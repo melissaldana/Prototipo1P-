@@ -16,5 +16,26 @@ namespace CapaVista
         {
             InitializeComponent();
         }
+
+        private void consultaClientesToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            var frmME = new frmConsultaClientes();
+            frmME.Show();
+            this.Hide();
+        }
+
+        private void consultaProveedoresToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            var frmME = new frmConsultaProveedores();
+            frmME.Show();
+            this.Hide();
+        }
+
+        private void consultaCuentaCorrienteToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            var frmME = new frmConsultaCuentaCorriente();
+            frmME.Show();
+            this.Hide();
+        }
     }
 }
